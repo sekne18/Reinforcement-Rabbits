@@ -10,3 +10,8 @@ Here are some screen shots from game:
 
 ![alt text](https://github.com/sekne18/Reinforcement-Rabbits/blob/main/Pics/game.png?raw=true)
 
+![alt text](https://github.com/sekne18/Reinforcement-Rabbits/blob/main/Images/PvE.png?raw=true)
+
+![alt text](https://github.com/sekne18/Reinforcement-Rabbits/blob/main/Images/solo.png?raw=true)
+
+![alt text](https://github.com/sekne18/Reinforcement-Rabbits/blob/main/Images/watch.png?raw=true)
